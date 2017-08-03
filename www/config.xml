@@ -41,7 +41,7 @@
     <gap:plugin name="cordova-plugin-network-information" source="npm"/>
     <gap:plugin name="cordova-plugin-splashscreen" source="npm"/>
     <gap:plugin name="cordova-plugin-vibration" source="npm"/>
-	<plugin name="cordova-plugin-splashscreen" source="npm" />
+	<gap:plugin name="cordova-plugin-splashscreen" source="npm" />
     <icon src="icon.png" />
     <icon gap:platform="android" gap:qualifier="ldpi" src="www/res/icon/android/icon.png" />
     <icon gap:platform="android" gap:qualifier="mdpi" src="www/res/icon/android/icon.png" />

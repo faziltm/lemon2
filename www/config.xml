@@ -59,7 +59,7 @@
 	
 	
 
-<gap:splash src="splash.png" />
+<gap:splash="splash.png" />
 
 
 
